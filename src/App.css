@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+.newtask-div{
+  margin-top: 100px;
+}
+input{
+  background-color: #e0c4ff;
+   border: 1px solid #673ab7;
+   border-radius: 5px 5px 5px 5px;
+   color: #393939;
+   font-size: 12px;
+   padding: 5px;
+}
+.newtask-div button{
+  border: 1px solid #673ab7;
+  background-color: #c280ff;
+  height: 30px;
+  border-radius: 10px; 
+  margin-right: 20px;
+}
+
+.todo{
+  display: flex; 
+  justify-content: center; 
+  margin-top: 30px; 
+}
+.task-name{
+  margin-right: 25px; 
+  
+}
+
+
+
+
